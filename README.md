@@ -27,6 +27,7 @@ Un outil cheker de mots de passe en python, qui lit un fichier de mots de passe 
 #Exemple avec mdp.txt
 
  == Audit de 10 mots de passe ==
+ 
   [FAIBLE] 1/5  azerty
   [FAIBLE] 4/5  Azerty123!
   [OK  ] 5/5  MotDePasse2024!
