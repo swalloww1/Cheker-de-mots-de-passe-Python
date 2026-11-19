@@ -28,14 +28,14 @@ Un outil cheker de mots de passe en python, qui lit un fichier de mots de passe 
 
  == Audit de 10 mots de passe ==
  [FAIBLE] 1/5  azerty
-[FAIBLE] 4/5  Azerty123!
-[OK  ] 5/5  MotDePasse2024!
-[FAIBLE] 2/5  123456789012
-[OK  ] 5/5  Soleil!Chaud2024
-[FAIBLE] 4/5  P@ssw0rd
-[FAIBLE] 3/5  motdepasse123
-[FAIBLE] 4/5  SUPERMOTDEPASSE1!
-[OK  ] 5/5  Chien-Chat-2024
-[FAIBLE] 1/5  qwerty
+ [FAIBLE] 4/5  Azerty123!
+ [OK  ] 5/5  MotDePasse2024!
+ [FAIBLE] 2/5  123456789012
+ [OK  ] 5/5  Soleil!Chaud2024
+ [FAIBLE] 4/5  P@ssw0rd
+ [FAIBLE] 3/5  motdepasse123
+ [FAIBLE] 4/5  SUPERMOTDEPASSE1!
+ [OK  ] 5/5  Chien-Chat-2024
+ [FAIBLE] 1/5  qwerty
 
 Solides : 3/10  |  faibles : 7  |  score moyen : 3.4
